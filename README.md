@@ -2,9 +2,10 @@
 
 This repository contains a simple BMI calculator script in Python.
 
-You can try the BMI calculator [here](link-to-your-website).
+Try the BMI calculator [here](mcdwrapoftheday.co.uk).
 
 ## Additional Links
 
 - [My Website](https://www.your-website.com)
-- [Documentation](mcdwrapoftheday.co.uk)
+- [Documentation](link-to-documentation)
+
